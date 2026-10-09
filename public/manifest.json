@@ -1,0 +1,40 @@
+{
+  "short_name": "Haven",
+  "name": "Haven: Trauma Recovery Sanctuary",
+  "description": "A safe, gentle sanctuary and interactive recovery companion for trauma, PTSD, and substance abuse survivors.",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f9f8",
+  "theme_color": "#365f54",
+  "categories": ["health", "lifestyle", "medical"],
+  "icons": [
+    {
+      "src": "/haven-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Grounding Exercise",
+      "short_name": "Grounding",
+      "description": "Quick 5-4-3-2-1 Sensory Grounding",
+      "url": "/?tool=grounding"
+    },
+    {
+      "name": "Crisis Lifelines",
+      "short_name": "Helplines",
+      "description": "Immediate access to 988 and crisis support",
+      "url": "/?action=crisis"
+    },
+    {
+      "name": "Haven Companion",
+      "short_name": "Companion",
+      "description": "Empathetic recovery AI companion",
+      "url": "/?action=chatbot"
+    }
+  ]
+}

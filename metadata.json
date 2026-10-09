@@ -1,0 +1,6 @@
+{
+  "name": "Haven: Trauma Recovery",
+  "description": "A safe, gentle sanctuary and interactive recovery companion for trauma, PTSD, Stockholm Syndrome, sexual abuse, and substance abuse survivors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
